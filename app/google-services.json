@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "60233804988",
-    "project_id": "personas-be70d",
-    "storage_bucket": "personas-be70d.appspot.com"
+    "project_number": "858436319146",
+    "project_id": "pruebamartin-45706",
+    "storage_bucket": "pruebamartin-45706.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:60233804988:android:a7d434e0311e91796cf4b9",
+        "mobilesdk_app_id": "1:858436319146:android:1cd9b83c63fe4d056c9dd3",
         "android_client_info": {
           "package_name": "com.example.personas"
         }
       },
       "oauth_client": [
         {
-          "client_id": "60233804988-j54c6t37vos1vlnm7v23af8807o6uatt.apps.googleusercontent.com",
+          "client_id": "858436319146-h0op8g4b401d1bnabs3do3i06gd4jbhk.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCRd8Xz93PvYurwVPYqndXetLf4VtkvNMo"
+          "current_key": "AIzaSyBAvrJvew2tIf1gpVeMwhHWqbvZ-EZBGdU"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "60233804988-j54c6t37vos1vlnm7v23af8807o6uatt.apps.googleusercontent.com",
+              "client_id": "858436319146-h0op8g4b401d1bnabs3do3i06gd4jbhk.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
